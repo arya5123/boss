@@ -1,0 +1,1 @@
+return end local name = user_print_name(result.from) banall_user(result.from.id) chat_del_user(chat, 'user#id'..result.from.id, ok_cb, false) send_large_msg(chat, "User "..name.."["..result.from.id.."] hammered") else return 'Use This in Your Groups' endend
