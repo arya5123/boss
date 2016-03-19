@@ -234,7 +234,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {177168187},--Sudo users
+    sudo_users = {14736858，1138583448},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
@@ -244,9 +244,9 @@ function create_config( )
     ‼️ this bot is made by : @creed_is_dead
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ   @elyasgalikeshi
+   ߔࠀ   @hack9999
+   ߔࠀ   @aliraygan
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -360,14 +360,13 @@ function create_config( )
 ------------------------------------------------------------------------------------------------------------
 
 
-کانال ما : @Pro_Programing
+کانال ما : @teleboss
 
 اعضای اصلی ما : 
 
-@Arsalan_Sahel  [سازنده]
-@Bad00boy_Creed [عضو اصلی ]
-@Creed_aria [عضو اصلی]
-@AmirCc_CreeD [عضو اصلی]
+@elyasgalikeshi  [سازنده]
+@hack9999 [عضو اصلی ]
+@aliraygan [عضو اصلی]
 ]],
     help_text = [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -477,11 +476,13 @@ function create_config( )
 ------------------------------------------------------------------------------------------------------------
  نکته !!!! :   با دستور *اخراجم کن* میتوانید از گروه بروید . 
 ------------------------------------------------------------------------------------------------------------
-کانال ما : @bot_tgch
+کانال ما : @teleboss
 
 اعضای اصلی ما : 
 
-@anonymous1221  [سازنده]
+       @elyasgalikeshi [سازنده]
+@hack9999  [sudo]
+@aliraygan [sudo]
 
 ]],
   }
